@@ -22,7 +22,7 @@ test.describe('Sanity', () => {
 
       await expect(
         page.getByText(
-          'The perfect SaaS template to build and scale your business with ease.',
+          'The only job board catering to entry-level, non-technical roles and internships in the Web 3.0 space.',
         ),
       ).toBeVisible();
     });
