@@ -1,6 +1,6 @@
 {
   "Index": {
-    "meta_title": "SaaS Template - Le template SaaS parfait pour construire et mettre à l'échelle votre entreprise en toute simplicité.",
+    "meta_title": "démarrer - Vous cherchez à démarrer votre carrière dans le Web 3.0?",
     "meta_description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec React, TypeScript, Shadcn UI et Tailwind CSS."
   },
   "Navbar": {
@@ -13,9 +13,9 @@
     "company": "Entreprise"
   },
   "Hero": {
-    "follow_twitter": "Suivez @Ixartz sur Twitter",
-    "title": "Le parfait <important>SaaS template</important> pour construire et mettre à l'échelle votre entreprise en toute simplicité.",
-    "description": "Un template gratuit et open-source de landing page pour votre entreprise SaaS, construit avec React, TypeScript, Shadcn UI et Tailwind CSS.",
+    "follow_twitter": "Suivez @BitApprentice sur Twitter",
+    "title": "Vous cherchez à <important>démarrer</important> votre carrière dans le Web 3.0?",
+    "description": "Le seul site d'emploi proposant des postes et des stages de niveau débutant non techniques dans l'espace Web 3.0.",
     "primary_button": "Démarrer",
     "secondary_button": "Mettez une étoile sur GitHub"
   },
