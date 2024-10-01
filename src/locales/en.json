@@ -1,7 +1,7 @@
 {
   "Index": {
-    "meta_title": "SaaS Template - The perfect SaaS template to build and scale your business with ease.",
-    "meta_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+    "meta_title": "kickstart - Looking to kickstart your Web 3.0 career?",
+    "meta_description": "The only job board catering to entry-level, non-technical roles and internships in the Web 3.0 space."
   },
   "Navbar": {
     "sign_in": "Sign In",
@@ -13,11 +13,9 @@
     "company": "Company"
   },
   "Hero": {
-    "follow_twitter": "Follow @Ixartz on Twitter",
-    "title": "The perfect <important>SaaS template</important> to build and scale your business with ease.",
-    "description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
-    "primary_button": "Get Started",
-    "secondary_button": "Star on GitHub"
+    "follow_twitter": "Follow @BitApprentice on Twitter",
+    "title": "Looking to kickstart <important>kickstart</important> your Web 3.0 career?",
+    "description": "The only job board catering to entry-level, non-technical roles and internships in the Web 3.0 space."
   },
   "Sponsors": {
     "title": "Sponsored by"
