@@ -1,5 +1,6 @@
 import { getTranslations, unstable_setRequestLocale } from 'next-intl/server';
 
+import JobData from '@/components/JobData';
 import { CTA } from '@/templates/CTA';
 import { FAQ } from '@/templates/FAQ';
 import { Features } from '@/templates/Features';
@@ -29,6 +30,7 @@ export default function IndexPage(props: { params: { locale: string } }) {
       {/* <DemoBanner /> */}
       <Navbar />
       <Hero />
+      <JobData />
       <Sponsors />
       <Features />
       <Pricing />
